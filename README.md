@@ -7,4 +7,4 @@
     <li><a href="https://kia-torkashvand.github.io/music-player/">demo project</a></li>
 </ul>
 <br><br><br>
-![Image](https://github.com/user-attachments/assets/be4938a4-943f-42db-a978-ec608715e2a8)
+![Capture](https://github.com/user-attachments/assets/be4938a4-943f-42db-a978-ec608715e2a8)
