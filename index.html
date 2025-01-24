@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify</title>
+    <link rel="stylesheet" href="css/css/fontello.css">
+    <link rel="stylesheet" href="css/master.css">
+    <script src="js/master.js"></script>
+</head>
+<body>
+    <nav class="nav">
+        <i class="icon-spotify"></i>
+        <div class="search">
+            <i class="icon-home"></i>
+            <input type="text" placeholder="Search an artist or a song :"></input>
+        </div>
+        <div class="profile">
+            <figure></figure>
+        </div>
+    </nav>
+    <section class="library">
+        <h2>your library</h2>
+    </section>
+    
+    <section class="main" id="main">
+    </section>
+    <div class="controler">
+        <div class="cover">
+            <figure>
+                <img id="cover" style="display: none" src="" alt="">
+            </figure>
+        </div>
+        <div class="buttons">
+            <button class="prev">⏮</button>
+            <button class="pause" id="play">⏯</button>
+            <button class="next">⏭</button>
+        </div>
+        <div class="progress">
+            <input type="range" value="0" id="range">
+        </div>
+    </div>
+</body>
+</html>
